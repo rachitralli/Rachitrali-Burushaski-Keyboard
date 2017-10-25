@@ -37,7 +37,7 @@ Links
 -----
 
  * Home:    https://keyman.com/
- * Help:    https://help.keyman.com/keyboard/rac_burushaski/1.0/rac_ burushaski.php
+ * Help:    https://help.keyman.com/keyboard/rac_burushaski/1.0/rac_burushaski.php
  * Keyman Web: https://keymanweb.com/#bsk,Keyboard_rac_burushaski
  * Contact: <rachitrali@yahoo.com>
  * Contact: <khowaracademy@yahoo.com>
